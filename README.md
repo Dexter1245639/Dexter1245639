@@ -58,7 +58,7 @@
 
 ###
 
-<div allign="center">
+<div align="center">
   <img src="https://media.tenor.com/htjYFNrNZzQAAAAM/yawn-snorlax.gif" height="292" alt="css logo"  />
   <img width="440" />
 </div>
