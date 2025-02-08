@@ -59,8 +59,8 @@
 ###
 
 <div allign="right">
-  <img src="https://media.tenor.com/htjYFNrNZzQAAAAM/yawn-snorlax.gif" height="50" alt="css logo"  />
-  <img width="20" />
+  <img src="https://media.tenor.com/htjYFNrNZzQAAAAM/yawn-snorlax.gif" height="292" alt="css logo"  />
+  <img width="440" />
 </div>
 
 ###
