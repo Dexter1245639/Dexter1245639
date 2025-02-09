@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! I'm Paweł and I'm programmer from Poland!
 
 ###
 
