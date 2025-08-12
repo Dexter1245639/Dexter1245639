@@ -57,12 +57,14 @@
 ###
 
 ###
+<!--
 <div width="100%" align="center">
   <div align="center">
     <img src="https://media.tenor.com/htjYFNrNZzQAAAAM/yawn-snorlax.gif" height="292" alt="snrolax"  />
     <img width="440" />
   </div>
 </div>
+-->
 
 ###
 <!--
