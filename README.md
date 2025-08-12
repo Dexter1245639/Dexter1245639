@@ -14,6 +14,8 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/godot/godot-original.svg" height="50" alt="godot logo"  />
   <img width="20" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/unity/unity-original.svg" height="50" alt="godot logo"  />
+  <img width="20" />
 </div>
 
 <div align="center">
@@ -24,9 +26,11 @@
 </div>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/android/android-original-wordmark.svg" height="50" alt="android logo"  />
+  <img width="20" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/intellij/intellij-original.svg" height="50" alt="intellij logo"  />
   <img width="20" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/android/android-original-wordmark.svg" height="50" alt="android logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/androidstudio/androidstudio-original.svg" height="50" alt="android studio logo"  />
   <img width="20" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/kotlin/kotlin-original.svg" height="50" alt="kotlin logo"  />
   <img width="20" />
